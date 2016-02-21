@@ -1,0 +1,49 @@
+/*NAVBAR*/
+.navigation {
+  background-color: #232323;
+  border-color: #2B2B2B;
+}
+
+.logo {
+  width: 80px;
+  padding: 6px 6px;
+  height: 80px;
+}
+.navbar-brand,
+.navbar-nav li a {
+  height: 80px;
+  line-height: 80px;
+  padding: 0 25px;
+font-family: 'Ubuntu', sans-serif;
+  font-size: 1.3em;
+  color:#fff !important;
+  border-right: 1px solid #393939;
+  -webkit-box-shadow: 1px 0px 0px 0px rgba(0,0,0,0.1);
+  -moz-box-shadow: 1px 0px 0px 0px rgba(0,0,0,0.1);
+  box-shadow: 1px 0px 0px 0px rgba(0,0,0,0.1);
+}
+
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+  background-color: #232323;
+}
+
+
+
+
+
+
+
+
+
+.navbar-default .navbar-nav > li > a {;
+  width: 88px;;
+  margin-left: -3px;;
+  font-size: 1.1em;;
+  padding-left: .5em;;;
+}
+
+.navbar-default .navbar-nav > li > a {
+  text-align: center;
+  width: 100%;
+}
